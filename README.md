@@ -17,11 +17,10 @@ açtıktan sonra sileceğiniz DM konuşmasına tıklayıp dediklerimizi uygulay�
 5. Açıldıktan sonra ve mesajlarını sileceğiniz kişinin DM kutusundaysanız,log açıldıktan sonra mavi tuşlara basmanız gerekmektedir.
 3.seçenek olan hedef yerinde önce ki mesaj ve sonra ki mesaj olarak adlandırdığımız yerlerde ilk seçenekte mesajı ve üstünü siler aşşağıda ki seçenekte mesaj ve aşşağı kısmını siler eğer orta bir yer belirlemek istiyorsanız iki mesajında ID'sini alıp çaprazlama bir şekilde seçtiğiniz yere kadar silinir. ( Ve unutmayalım bunlardan önce Developer yani yazılımcı kodcu modunu açmanız gerekmektedir.)
 
-<img src="https://arven.is-pretty.cool/5BiMRNw.png" height="600">
 
 Bu yazılım sadece yardım amaçlı yapılmıştır ve sizler için yapılmıştır ❤️ ^^  , ⭐️ tuşuna basarak bize destek olabilirsiniz ve bu şekilde yazılımın daha fazla kullanıcıya ulaşmasını sağlarsınız.
 
-Eğer yardım lazımsa [makaleyi aç](https://github.com/arvendf/DeleteDiscordMessages/issues)
+Eğer yardım lazımsa [makaleyi aç](https://github.com/areskhu/DeleteDiscordMessages/issues)
 
 
 ----
