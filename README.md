@@ -20,8 +20,6 @@ açtıktan sonra sileceğiniz DM konuşmasına tıklayıp dediklerimizi uygulay�
 
 Bu yazılım sadece yardım amaçlı yapılmıştır ve sizler için yapılmıştır ❤️ ^^  , ⭐️ tuşuna basarak bize destek olabilirsiniz ve bu şekilde yazılımın daha fazla kullanıcıya ulaşmasını sağlarsınız.
 
-Eğer yardım lazımsa [makaleyi aç](https://github.com/areskhu/DeleteDiscordMessages/issues)
-
 
 ----
 
@@ -40,9 +38,6 @@ Eğer yardım lazımsa [makaleyi aç](https://github.com/areskhu/DeleteDiscordMe
 - İstediğiniz zaman başlat / durdur
 - Binlerce mesajla bile çalışır
 
-----
-
-Aslen https://github.com/arvendf/DeleteDiscordMessages Adresinden
 
 ----
 
